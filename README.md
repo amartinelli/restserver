@@ -154,3 +154,6 @@ This is the entry file of the API. It defines the routes using, along other midd
 ### services/
 
 Here you can put `helpers`, `libraries` and other types of modules which you want to use in your APIs.
+
+# restserver
+Custom Node rest server from yeoman generetor (rest)
